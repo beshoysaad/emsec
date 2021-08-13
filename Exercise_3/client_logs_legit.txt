@@ -1,0 +1,540 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2019.06.04 15:26:44 =~=~=~=~=~=~=~=~=~=~=~=
+** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+ets Jun  8 2016 00:22:57
+
+rst:0x1 (POWERON_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+flash read err, 1000
+ets_main.c 371 
+ets Jun  8 2016 00:22:57
+
+rst:0x10 (RTCWDT_RTC_RESET),boot:0x13 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0018,len:4
+load:0x3fff001c,len:1100
+load:0x40078000,len:9232
+load:0x40080400,len:6412
+entry 0x400806a8
+Starting Arduino BLE Client application...
+BLE Advertised Device found: Name: , Address: fc:f1:36:c5:6b:e5, manufacturer data: 7500420401800efcf136c56be516bb6e86a78901000000000000
+BLE Advertised Device found: Name: , Address: 4f:b8:70:a5:2a:e2, manufacturer data: 4c0010050318fff079
+BLE Advertised Device found: Name: , Address: 7d:81:42:0e:68:0e, manufacturer data: 4c0010051a1cd8aa83
+BLE Advertised Device found: Name: , Address: 2f:07:1e:f2:cd:3d, manufacturer data: 060001092002336926fca11c9485db9c4332ecc428a681cc5381597af3
+BLE Advertised Device found: Name: , Address: 53:de:a3:57:8f:67, manufacturer data: 4c000c0e009a9a28a4a56691b73df3649380
+BLE Advertised Device found: Name: , Address: 48:d7:05:d1:42:20, manufacturer data: 4c0010050b1cd9c5f5
+BLE Advertised Device found: Name: Apple Pencil
+BLE Advertised Device found: Name: , Address: fc:f1:36:c5:6e:93, manufacturer data: 75004204018000fcf136c56e9316bb6e85addc01000000000000
+BLE Advertised Device found: Name: , Address: 60:f4:45:ea:a1:0f, manufacturer data: 4c001005071c0dd62c
+BLE Advertised Device found: Name: , Address: 07:0e:59:ec:b4:8d, manufacturer data: 060001092002bdd73ab65a5a195c56db3e281fe636abbb9f03f137b060
+BLE Advertised Device found: Name: , Address: 44:d9:b0:0d:4b:fd, manufacturer data: 4c0010050b1c0ad481
+BLE Advertised Device found: Name: , Address: 4d:dd:18:d2:0e:c7, manufacturer data: 4c000c0e00b5196f2c9282c149f3ca9021da
+BLE Advertised Device found: Name: Emsec2019-Server1, Address: 30:ae:a4:22:c3:2e, serviceUUID: 4fafc201-1fb5-459e-8fcc-c5c9c331914b, txPower: 3
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+** recv **
+Recv: 2097326695
+** recv **
+Recv: 2135380412
+** recv **
+Recv: 2400065757
+** recv **
+Recv: 539539491
+** recv **
+Recv: 2537827932
+** recv **
+Recv: 590492405
+** recv **
+Recv: 2370622832
+** recv **
+Recv: 2678959231
+** recv **
+Recv: 957517497
+** recv **
+Recv: 3450954023
+** recv **
+Recv: 1950148661
+** recv **
+Recv: 3625653616
+** recv **
+Recv: 1187468762
+** recv **
+Recv: 1752548316
+** recv **
+Recv: 697573555
+** recv **
+Recv: 2581820299
+*** Start flag ***
+** recv **
+Recv: 360101400
+** recv **
+Recv: 3559581296
+** recv **
+Recv: 2977341218
+** recv **
+Recv: 2496722154
+** recv **
+Recv: 3817477129
+** recv **
+Recv: 3857409269
+*

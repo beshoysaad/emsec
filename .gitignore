@@ -1,0 +1,11 @@
+.idea
+venv
+/Exercise 3/Ex03/.vscode
+/Exercise 3/Ex03/.pioenvs
+/Exercise 1/task2/.vscode
+/Exercise 1/task2/.pioenvs
+/Exercise 1/task2/.piolibdeps
+/Exercise 3/Ex03_Client/.vscode
+/Exercise 3/Ex03_Client/.pioenvs
+/Exercise 3/Ex03_Server/.vscode
+/Exercise_4/simple_ota_example/build

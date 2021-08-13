@@ -1,0 +1,73 @@
+We are now connected to the BLE Server.
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820
+Setting new characteristic value to "{mat1:2565427,mat2:2572741,nonce:xmZ5adIxEJCBFp/GBywx6Q==,sha256sum:lcQ3AGW++w7zuiOtC2t2JpCs6XIcsy6+28PUIf/zxo8=}"
+Notify callback for characteristic b9407f30-f5f8-466e-aff9-25556b57fe6d of data length 4
+data: 23B82820

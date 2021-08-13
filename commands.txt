@@ -1,0 +1,3 @@
+avrdude -p atmega328p -c arduino -P COM3 -b 115200 -U flash:w:task1/ArduinoISP.hex
+
+avrdude -c avrisp -P COM3 -p t13 -b 19200 -U flash:w:task2/attiny-sidechannel.hex
