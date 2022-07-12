@@ -1,4 +1,4 @@
-# Embedded Security Project
+# Embedded Security Project - Summer Semester 2019
 Four coding exercises involving security concepts for embedded devices.
 
 1. Firmware Reverse-Engineering: https://github.com/beshoysaad/emsec/blob/master/Exercise_1/exercise-01.pdf
